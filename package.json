@@ -26,6 +26,8 @@
     "generate": "stencil generate"
   },
   "dependencies": {
+    "@material/mwc-icon": "^0.27.0",
+    "@material/mwc-list": "^0.27.0",
     "@stencil/core": "^2.13.0"
   },
   "devDependencies": {
